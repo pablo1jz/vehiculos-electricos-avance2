@@ -1,0 +1,12 @@
+git init
+git add README.md .gitignore requirements.txt datos/README.md
+git commit -m "Inicializa estructura del proyecto"
+
+git add src/__init__.py src/carga.py
+git commit -m "Implementa carga inicial con Pandas"
+
+git add main.py datos/
+git commit -m "Conecta main.py con carga e inspeccion de datos"
+
+git add reportes/avance_1.pdf
+git commit -m "Incorpora informe del avance 1"

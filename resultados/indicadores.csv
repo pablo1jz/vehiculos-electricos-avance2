@@ -1,0 +1,6 @@
+Indicador,Metodo_de_calculo,Resultado,Interpretacion
+Total de registros válidos,len(df),823,Cantidad total de observaciones procesadas en el dataset.
+Promedio de ventas de EVs,"df[""ventas""].mean()",233831.19,Venta media general de autos eléctricos por observación.
+Porcentaje con variación anual positiva,(variacion_anual_pct > 0) / Total * 100,84.45%,Proporción de observaciones que muestran aceleración o crecimiento respecto al año anterior.
+Categoría de mercado más frecuente,"df[""categoria_mercado""].mode()[0]",muy bajo,El rango de volumen de ventas predominante a nivel global y nacional.
+Valor máximo de ventas y registro,"df[""ventas""].max() y registro asociado",21200000.0 (World (2025)),Identifica el pico histórico de ventas registrado en la serie.
