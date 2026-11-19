@@ -1,0 +1,820 @@
+entity,code,year,electric_cars_sold,tipo_entidad,nivel_adopcion
+Australia,AUS,2011,49,País,Bajo
+Australia,AUS,2012,250,País,Bajo
+Australia,AUS,2013,290,País,Bajo
+Australia,AUS,2014,1320,País,Medio
+Australia,AUS,2015,1760,País,Medio
+Australia,AUS,2016,1370,País,Medio
+Australia,AUS,2017,2300,País,Medio
+Australia,AUS,2018,3600,País,Medio
+Australia,AUS,2019,9200,País,Medio
+Australia,AUS,2020,6900,País,Medio
+Australia,AUS,2021,20400,País,Alto
+Australia,AUS,2022,38900,País,Alto
+Australia,AUS,2023,98000,País,Alto
+Australia,AUS,2024,114000,País,Alto
+Australia,AUS,2025,133000,País,Alto
+Austria,AUT,2013,650,País,Bajo
+Austria,AUT,2014,1700,País,Medio
+Austria,AUT,2015,2800,País,Medio
+Austria,AUT,2016,5000,País,Medio
+Austria,AUT,2017,7100,País,Medio
+Austria,AUT,2018,9100,País,Medio
+Austria,AUT,2019,11500,País,Medio
+Austria,AUT,2020,23600,País,Alto
+Austria,AUT,2021,48000,País,Alto
+Austria,AUT,2022,47000,País,Alto
+Austria,AUT,2023,65000,País,Alto
+Austria,AUT,2024,62000,País,Alto
+Austria,AUT,2025,90000,País,Alto
+Belgium,BEL,2010,56,País,Bajo
+Belgium,BEL,2011,296,País,Bajo
+Belgium,BEL,2012,910,País,Bajo
+Belgium,BEL,2013,560,País,Bajo
+Belgium,BEL,2014,1950,País,Medio
+Belgium,BEL,2015,3900,País,Medio
+Belgium,BEL,2016,9200,País,Medio
+Belgium,BEL,2017,14700,País,Medio
+Belgium,BEL,2018,13200,País,Medio
+Belgium,BEL,2019,17700,País,Medio
+Belgium,BEL,2020,47000,País,Alto
+Belgium,BEL,2021,71000,País,Alto
+Belgium,BEL,2022,97000,País,Alto
+Belgium,BEL,2023,193000,País,Alto
+Belgium,BEL,2024,197000,País,Alto
+Belgium,BEL,2025,180000,País,Alto
+Brazil,BRA,2010,10,País,Bajo
+Brazil,BRA,2011,8,País,Bajo
+Brazil,BRA,2012,40,País,Bajo
+Brazil,BRA,2013,72,País,Bajo
+Brazil,BRA,2014,61,País,Bajo
+Brazil,BRA,2015,89,País,Bajo
+Brazil,BRA,2016,177,País,Bajo
+Brazil,BRA,2017,430,País,Bajo
+Brazil,BRA,2018,410,País,Bajo
+Brazil,BRA,2019,1940,País,Medio
+Brazil,BRA,2020,2600,País,Medio
+Brazil,BRA,2021,13900,País,Medio
+Brazil,BRA,2022,18500,País,Alto
+Brazil,BRA,2023,52000,País,Alto
+Brazil,BRA,2024,126000,País,Alto
+Brazil,BRA,2025,178000,País,Alto
+Bulgaria,BGR,2015,21,País,Bajo
+Bulgaria,BGR,2016,13,País,Bajo
+Bulgaria,BGR,2017,106,País,Bajo
+Bulgaria,BGR,2018,216,País,Bajo
+Bulgaria,BGR,2019,236,País,Bajo
+Bulgaria,BGR,2020,181,País,Bajo
+Bulgaria,BGR,2021,550,País,Bajo
+Bulgaria,BGR,2022,1140,País,Bajo
+Bulgaria,BGR,2023,2160,País,Medio
+Bulgaria,BGR,2024,2170,País,Medio
+Bulgaria,BGR,2025,2970,País,Medio
+Cambodia,KHM,2021,42,País,Bajo
+Cambodia,KHM,2022,290,País,Bajo
+Cambodia,KHM,2023,500,País,Bajo
+Cambodia,KHM,2024,2230,País,Medio
+Cambodia,KHM,2025,4210,País,Medio
+Canada,CAN,2011,520,País,Bajo
+Canada,CAN,2012,1920,País,Medio
+Canada,CAN,2013,3100,País,Medio
+Canada,CAN,2014,5100,País,Medio
+Canada,CAN,2015,6800,País,Medio
+Canada,CAN,2016,11600,País,Medio
+Canada,CAN,2017,16700,País,Medio
+Canada,CAN,2018,44000,País,Alto
+Canada,CAN,2019,51000,País,Alto
+Canada,CAN,2020,51000,País,Alto
+Canada,CAN,2021,87000,País,Alto
+Canada,CAN,2022,115000,País,Alto
+Canada,CAN,2023,171000,País,Alto
+Canada,CAN,2024,252000,País,Alto
+Canada,CAN,2025,168000,País,Alto
+Chile,CHL,2011,6,País,Bajo
+Chile,CHL,2012,5,País,Bajo
+Chile,CHL,2013,5,País,Bajo
+Chile,CHL,2014,19,País,Bajo
+Chile,CHL,2015,36,País,Bajo
+Chile,CHL,2016,31,País,Bajo
+Chile,CHL,2017,135,País,Bajo
+Chile,CHL,2018,198,País,Bajo
+Chile,CHL,2019,305,País,Bajo
+Chile,CHL,2020,239,País,Bajo
+Chile,CHL,2021,860,País,Bajo
+Chile,CHL,2022,1770,País,Medio
+Chile,CHL,2023,2110,País,Medio
+Chile,CHL,2024,5600,País,Medio
+Chile,CHL,2025,8700,País,Medio
+China,CHN,2010,1440,País,Medio
+China,CHN,2011,5120,País,Medio
+China,CHN,2012,9860,País,Medio
+China,CHN,2013,15730,País,Medio
+China,CHN,2014,74000,País,Alto
+China,CHN,2015,211000,País,Alto
+China,CHN,2016,339000,País,Alto
+China,CHN,2017,580000,País,Alto
+China,CHN,2018,1090000,País,Alto
+China,CHN,2019,1070000,País,Alto
+China,CHN,2020,1150000,País,Alto
+China,CHN,2021,3250000,País,Alto
+China,CHN,2022,6000000,País,Alto
+China,CHN,2023,8200000,País,Alto
+China,CHN,2024,11300000,País,Alto
+China,CHN,2025,13300000,País,Alto
+Colombia,COL,2011,1,País,Bajo
+Colombia,COL,2012,26,País,Bajo
+Colombia,COL,2013,23,País,Bajo
+Colombia,COL,2014,27,País,Bajo
+Colombia,COL,2015,42,País,Bajo
+Colombia,COL,2016,53,País,Bajo
+Colombia,COL,2017,148,País,Bajo
+Colombia,COL,2018,570,País,Bajo
+Colombia,COL,2019,1210,País,Medio
+Colombia,COL,2020,1140,País,Bajo
+Colombia,COL,2021,2540,País,Medio
+Colombia,COL,2022,4300,País,Medio
+Colombia,COL,2023,5600,País,Medio
+Colombia,COL,2024,13100,País,Medio
+Colombia,COL,2025,21700,País,Alto
+Costa Rica,CRI,2015,12,País,Bajo
+Costa Rica,CRI,2016,107,País,Bajo
+Costa Rica,CRI,2017,34,País,Bajo
+Costa Rica,CRI,2018,284,País,Bajo
+Costa Rica,CRI,2019,381,País,Bajo
+Costa Rica,CRI,2020,606,País,Bajo
+Costa Rica,CRI,2021,1130,País,Bajo
+Costa Rica,CRI,2022,2661,País,Medio
+Costa Rica,CRI,2023,6337,País,Medio
+Costa Rica,CRI,2024,11062,País,Medio
+Costa Rica,CRI,2025,12190,País,Medio
+Croatia,HRV,2019,257,País,Bajo
+Croatia,HRV,2020,670,País,Bajo
+Croatia,HRV,2021,1800,País,Medio
+Croatia,HRV,2022,2240,País,Medio
+Croatia,HRV,2023,2590,País,Medio
+Croatia,HRV,2024,3200,País,Medio
+Croatia,HRV,2025,3800,País,Medio
+Cyprus,CYP,2019,23,País,Bajo
+Cyprus,CYP,2020,125,País,Bajo
+Cyprus,CYP,2021,182,País,Bajo
+Cyprus,CYP,2022,630,País,Bajo
+Cyprus,CYP,2023,1300,País,Medio
+Cyprus,CYP,2024,1860,País,Medio
+Cyprus,CYP,2025,2270,País,Medio
+Czechia,CZE,2015,300,País,Bajo
+Czechia,CZE,2016,200,País,Bajo
+Czechia,CZE,2017,390,País,Bajo
+Czechia,CZE,2018,980,País,Bajo
+Czechia,CZE,2019,1230,País,Medio
+Czechia,CZE,2020,5300,País,Medio
+Czechia,CZE,2021,6400,País,Medio
+Czechia,CZE,2022,7500,País,Medio
+Czechia,CZE,2023,12000,País,Medio
+Czechia,CZE,2024,15800,País,Medio
+Czechia,CZE,2025,25000,País,Alto
+Denmark,DNK,2011,422,País,Bajo
+Denmark,DNK,2012,502,País,Bajo
+Denmark,DNK,2013,510,País,Bajo
+Denmark,DNK,2014,1690,País,Medio
+Denmark,DNK,2015,4720,País,Medio
+Denmark,DNK,2016,1870,País,Medio
+Denmark,DNK,2017,1330,País,Medio
+Denmark,DNK,2018,4600,País,Medio
+Denmark,DNK,2019,9400,País,Medio
+Denmark,DNK,2020,32000,País,Alto
+Denmark,DNK,2021,65000,País,Alto
+Denmark,DNK,2022,57000,País,Alto
+Denmark,DNK,2023,80000,País,Alto
+Denmark,DNK,2024,96100,País,Alto
+Denmark,DNK,2025,134700,País,Alto
+Estonia,EST,2015,34,País,Bajo
+Estonia,EST,2016,35,País,Bajo
+Estonia,EST,2017,46,País,Bajo
+Estonia,EST,2018,118,País,Bajo
+Estonia,EST,2019,97,País,Bajo
+Estonia,EST,2020,415,País,Bajo
+Estonia,EST,2021,720,País,Bajo
+Estonia,EST,2022,1160,País,Medio
+Estonia,EST,2023,1960,País,Medio
+Estonia,EST,2024,2600,País,Medio
+Estonia,EST,2025,2270,País,Medio
+Europe,OWID_EUR,2010,1810,Agregado,Medio
+Europe,OWID_EUR,2011,11410,Agregado,Medio
+Europe,OWID_EUR,2012,28200,Agregado,Alto
+Europe,OWID_EUR,2013,59000,Agregado,Alto
+Europe,OWID_EUR,2014,96000,Agregado,Alto
+Europe,OWID_EUR,2015,162000,Agregado,Alto
+Europe,OWID_EUR,2016,233000,Agregado,Alto
+Europe,OWID_EUR,2017,320000,Agregado,Alto
+Europe,OWID_EUR,2018,390000,Agregado,Alto
+Europe,OWID_EUR,2019,570000,Agregado,Alto
+Europe,OWID_EUR,2020,1380000,Agregado,Alto
+Europe,OWID_EUR,2021,2300000,Agregado,Alto
+Europe,OWID_EUR,2022,2600000,Agregado,Alto
+Europe,OWID_EUR,2023,3200000,Agregado,Alto
+Europe,OWID_EUR,2024,3190000,Agregado,Alto
+Europe,OWID_EUR,2025,4300000,Agregado,Alto
+European Union (27),OWID_EU27,2010,1191,Agregado,Medio
+European Union (27),OWID_EU27,2011,7460,Agregado,Medio
+European Union (27),OWID_EU27,2012,19500,Agregado,Alto
+European Union (27),OWID_EU27,2013,45000,Agregado,Alto
+European Union (27),OWID_EU27,2014,57000,Agregado,Alto
+European Union (27),OWID_EU27,2015,92000,Agregado,Alto
+European Union (27),OWID_EU27,2016,140000,Agregado,Alto
+European Union (27),OWID_EU27,2017,185000,Agregado,Alto
+European Union (27),OWID_EU27,2018,250000,Agregado,Alto
+European Union (27),OWID_EU27,2019,390000,Agregado,Alto
+European Union (27),OWID_EU27,2020,1050000,Agregado,Alto
+European Union (27),OWID_EU27,2021,1760000,Agregado,Alto
+European Union (27),OWID_EU27,2022,1980000,Agregado,Alto
+European Union (27),OWID_EU27,2023,2420000,Agregado,Alto
+European Union (27),OWID_EU27,2024,2270000,Agregado,Alto
+European Union (27),OWID_EU27,2025,2900000,Agregado,Alto
+Finland,FIN,2011,30,País,Bajo
+Finland,FIN,2012,181,País,Bajo
+Finland,FIN,2013,220,País,Bajo
+Finland,FIN,2014,440,País,Bajo
+Finland,FIN,2015,660,País,Bajo
+Finland,FIN,2016,1420,País,Medio
+Finland,FIN,2017,3100,País,Medio
+Finland,FIN,2018,5680,País,Medio
+Finland,FIN,2019,7900,País,Medio
+Finland,FIN,2020,17200,País,Medio
+Finland,FIN,2021,30000,País,Alto
+Finland,FIN,2022,31000,País,Alto
+Finland,FIN,2023,48000,País,Alto
+Finland,FIN,2024,37000,País,Alto
+Finland,FIN,2025,42000,País,Alto
+France,FRA,2010,272,País,Bajo
+France,FRA,2011,2656,País,Medio
+France,FRA,2012,6360,País,Medio
+France,FRA,2013,9750,País,Medio
+France,FRA,2014,13100,País,Medio
+France,FRA,2015,23800,País,Alto
+France,FRA,2016,30600,País,Alto
+France,FRA,2017,38000,País,Alto
+France,FRA,2018,48000,País,Alto
+France,FRA,2019,64000,País,Alto
+France,FRA,2020,185000,País,Alto
+France,FRA,2021,310000,País,Alto
+France,FRA,2022,340000,País,Alto
+France,FRA,2023,470000,País,Alto
+France,FRA,2024,450000,País,Alto
+France,FRA,2025,450000,País,Alto
+Germany,DEU,2010,140,País,Bajo
+Germany,DEU,2011,1640,País,Medio
+Germany,DEU,2012,3400,País,Medio
+Germany,DEU,2013,6800,País,Medio
+Germany,DEU,2014,13500,País,Medio
+Germany,DEU,2015,23000,País,Alto
+Germany,DEU,2016,24000,País,Alto
+Germany,DEU,2017,54000,País,Alto
+Germany,DEU,2018,67000,País,Alto
+Germany,DEU,2019,108000,País,Alto
+Germany,DEU,2020,390000,País,Alto
+Germany,DEU,2021,690000,País,Alto
+Germany,DEU,2022,830000,País,Alto
+Germany,DEU,2023,700000,País,Alto
+Germany,DEU,2024,570000,País,Alto
+Germany,DEU,2025,860000,País,Alto
+Greece,GRC,2013,3,País,Bajo
+Greece,GRC,2014,39,País,Bajo
+Greece,GRC,2015,57,País,Bajo
+Greece,GRC,2016,97,País,Bajo
+Greece,GRC,2017,190,País,Bajo
+Greece,GRC,2018,298,País,Bajo
+Greece,GRC,2019,480,País,Bajo
+Greece,GRC,2020,2180,País,Medio
+Greece,GRC,2021,7000,País,Medio
+Greece,GRC,2022,8300,País,Medio
+Greece,GRC,2023,17000,País,Medio
+Greece,GRC,2024,17000,País,Medio
+Greece,GRC,2025,20900,País,Alto
+Hungary,HUN,2015,135,País,Bajo
+Hungary,HUN,2016,340,País,Bajo
+Hungary,HUN,2017,1190,País,Medio
+Hungary,HUN,2018,2070,País,Medio
+Hungary,HUN,2019,2900,País,Medio
+Hungary,HUN,2020,6000,País,Medio
+Hungary,HUN,2021,8500,País,Medio
+Hungary,HUN,2022,9600,País,Medio
+Hungary,HUN,2023,11300,País,Medio
+Hungary,HUN,2024,14300,País,Medio
+Hungary,HUN,2025,18100,País,Alto
+Iceland,ISL,2012,26,País,Bajo
+Iceland,ISL,2013,103,País,Bajo
+Iceland,ISL,2014,229,País,Bajo
+Iceland,ISL,2015,560,País,Bajo
+Iceland,ISL,2016,1160,País,Medio
+Iceland,ISL,2017,3040,País,Medio
+Iceland,ISL,2018,3680,País,Medio
+Iceland,ISL,2019,3100,País,Medio
+Iceland,ISL,2020,4900,País,Medio
+Iceland,ISL,2021,9100,País,Medio
+Iceland,ISL,2022,12000,País,Medio
+Iceland,ISL,2023,12400,País,Medio
+Iceland,ISL,2024,5000,País,Medio
+Iceland,ISL,2025,10200,País,Medio
+India,IND,2010,450,País,Bajo
+India,IND,2011,1400,País,Medio
+India,IND,2012,190,País,Bajo
+India,IND,2013,410,País,Bajo
+India,IND,2014,1000,País,Bajo
+India,IND,2015,450,País,Bajo
+India,IND,2016,730,País,Bajo
+India,IND,2017,920,País,Bajo
+India,IND,2018,920,País,Bajo
+India,IND,2019,687,País,Bajo
+India,IND,2020,3143,País,Medio
+India,IND,2021,12050,País,Medio
+India,IND,2022,48023,País,Alto
+India,IND,2023,82270,País,Alto
+India,IND,2024,92095,País,Alto
+India,IND,2025,170100,País,Alto
+Indonesia,IDN,2011,2,País,Bajo
+Indonesia,IDN,2013,2,País,Bajo
+Indonesia,IDN,2017,27,País,Bajo
+Indonesia,IDN,2018,2,País,Bajo
+Indonesia,IDN,2019,91,País,Bajo
+Indonesia,IDN,2020,363,País,Bajo
+Indonesia,IDN,2021,761,País,Bajo
+Indonesia,IDN,2022,11079,País,Medio
+Indonesia,IDN,2023,17160,País,Medio
+Indonesia,IDN,2024,49150,País,Alto
+Indonesia,IDN,2025,115300,País,Alto
+Ireland,IRL,2015,590,País,Bajo
+Ireland,IRL,2016,690,País,Bajo
+Ireland,IRL,2017,950,País,Bajo
+Ireland,IRL,2018,1940,País,Medio
+Ireland,IRL,2019,4700,País,Medio
+Ireland,IRL,2020,6500,País,Medio
+Ireland,IRL,2021,16500,País,Medio
+Ireland,IRL,2022,23700,País,Alto
+Ireland,IRL,2023,33000,País,Alto
+Ireland,IRL,2024,30000,País,Alto
+Ireland,IRL,2025,43000,País,Alto
+Israel,ISR,2011,3,País,Bajo
+Israel,ISR,2012,601,País,Bajo
+Israel,ISR,2013,477,País,Bajo
+Israel,ISR,2014,58,País,Bajo
+Israel,ISR,2015,68,País,Bajo
+Israel,ISR,2016,68,País,Bajo
+Israel,ISR,2017,1630,País,Medio
+Israel,ISR,2018,3730,País,Medio
+Israel,ISR,2019,4750,País,Medio
+Israel,ISR,2020,6900,País,Medio
+Israel,ISR,2021,24000,País,Alto
+Israel,ISR,2022,43000,País,Alto
+Israel,ISR,2023,65000,País,Alto
+Israel,ISR,2024,76400,País,Alto
+Israel,ISR,2025,90000,País,Alto
+Italy,ITA,2010,40,País,Bajo
+Italy,ITA,2011,110,País,Bajo
+Italy,ITA,2012,460,País,Bajo
+Italy,ITA,2013,1040,País,Bajo
+Italy,ITA,2014,1340,País,Medio
+Italy,ITA,2015,2240,País,Medio
+Italy,ITA,2016,2700,País,Medio
+Italy,ITA,2017,4900,País,Medio
+Italy,ITA,2018,9700,País,Medio
+Italy,ITA,2019,17500,País,Medio
+Italy,ITA,2020,60000,País,Alto
+Italy,ITA,2021,138000,País,Alto
+Italy,ITA,2022,114000,País,Alto
+Italy,ITA,2023,136000,País,Alto
+Italy,ITA,2024,118000,País,Alto
+Italy,ITA,2025,193000,País,Alto
+Japan,JPN,2010,2400,País,Medio
+Japan,JPN,2011,13015,País,Medio
+Japan,JPN,2012,24000,País,Alto
+Japan,JPN,2013,29000,País,Alto
+Japan,JPN,2014,32000,País,Alto
+Japan,JPN,2015,24000,País,Alto
+Japan,JPN,2016,24400,País,Alto
+Japan,JPN,2017,54000,País,Alto
+Japan,JPN,2018,50000,País,Alto
+Japan,JPN,2019,39000,País,Alto
+Japan,JPN,2020,30000,País,Alto
+Japan,JPN,2021,45000,País,Alto
+Japan,JPN,2022,97000,País,Alto
+Japan,JPN,2023,140000,País,Alto
+Japan,JPN,2024,103000,País,Alto
+Japan,JPN,2025,102000,País,Alto
+Jordan,JOR,2017,217,País,Bajo
+Jordan,JOR,2018,195,País,Bajo
+Jordan,JOR,2019,380,País,Bajo
+Jordan,JOR,2020,354,País,Bajo
+Jordan,JOR,2021,1240,País,Medio
+Jordan,JOR,2022,1500,País,Medio
+Jordan,JOR,2023,2091,País,Medio
+Jordan,JOR,2024,5472,País,Medio
+Jordan,JOR,2025,2941,País,Medio
+Laos,LAO,2022,180,País,Bajo
+Laos,LAO,2023,560,País,Bajo
+Laos,LAO,2024,2630,País,Medio
+Laos,LAO,2025,6150,País,Medio
+Latvia,LVA,2015,26,País,Bajo
+Latvia,LVA,2016,40,País,Bajo
+Latvia,LVA,2017,40,País,Bajo
+Latvia,LVA,2018,90,País,Bajo
+Latvia,LVA,2019,98,País,Bajo
+Latvia,LVA,2020,383,País,Bajo
+Latvia,LVA,2021,550,País,Bajo
+Latvia,LVA,2022,1400,País,Medio
+Latvia,LVA,2023,2050,País,Medio
+Latvia,LVA,2024,2100,País,Medio
+Latvia,LVA,2025,4300,País,Medio
+Lithuania,LTU,2015,37,País,Bajo
+Lithuania,LTU,2016,64,País,Bajo
+Lithuania,LTU,2017,52,País,Bajo
+Lithuania,LTU,2018,140,País,Bajo
+Lithuania,LTU,2019,160,País,Bajo
+Lithuania,LTU,2020,450,País,Bajo
+Lithuania,LTU,2021,1600,País,Medio
+Lithuania,LTU,2022,2070,País,Medio
+Lithuania,LTU,2023,3200,País,Medio
+Lithuania,LTU,2024,3500,País,Medio
+Lithuania,LTU,2025,7600,País,Medio
+Luxembourg,LUX,2019,1900,País,Medio
+Luxembourg,LUX,2020,5200,País,Medio
+Luxembourg,LUX,2021,9000,País,Medio
+Luxembourg,LUX,2022,10200,País,Medio
+Luxembourg,LUX,2023,15800,País,Medio
+Luxembourg,LUX,2024,16800,País,Medio
+Luxembourg,LUX,2025,16700,País,Medio
+Malaysia,MYS,2012,10,País,Bajo
+Malaysia,MYS,2013,2,País,Bajo
+Malaysia,MYS,2014,15,País,Bajo
+Malaysia,MYS,2015,37,País,Bajo
+Malaysia,MYS,2016,110,País,Bajo
+Malaysia,MYS,2017,8240,País,Medio
+Malaysia,MYS,2018,8062,País,Medio
+Malaysia,MYS,2019,2542,País,Medio
+Malaysia,MYS,2020,667,País,Bajo
+Malaysia,MYS,2021,1250,País,Medio
+Malaysia,MYS,2022,3200,País,Medio
+Malaysia,MYS,2023,11100,País,Medio
+Malaysia,MYS,2024,23300,País,Alto
+Malaysia,MYS,2025,54500,País,Alto
+Mexico,MEX,2011,3,País,Bajo
+Mexico,MEX,2012,88,País,Bajo
+Mexico,MEX,2013,12,País,Bajo
+Mexico,MEX,2014,48,País,Bajo
+Mexico,MEX,2015,99,País,Bajo
+Mexico,MEX,2016,770,País,Bajo
+Mexico,MEX,2017,1200,País,Medio
+Mexico,MEX,2018,1800,País,Medio
+Mexico,MEX,2019,1690,País,Medio
+Mexico,MEX,2020,3800,País,Medio
+Mexico,MEX,2021,6500,País,Medio
+Mexico,MEX,2022,8400,País,Medio
+Mexico,MEX,2023,16100,País,Medio
+Mexico,MEX,2024,27200,País,Alto
+Mexico,MEX,2025,90000,País,Alto
+Nepal,NPL,2021,1153,País,Medio
+Nepal,NPL,2022,2596,País,Medio
+Nepal,NPL,2023,7491,País,Medio
+Nepal,NPL,2024,12054,País,Medio
+Nepal,NPL,2025,13063,País,Medio
+Netherlands,NLD,2010,120,País,Bajo
+Netherlands,NLD,2011,877,País,Bajo
+Netherlands,NLD,2012,5090,País,Medio
+Netherlands,NLD,2013,22600,País,Alto
+Netherlands,NLD,2014,14700,País,Medio
+Netherlands,NLD,2015,15400,País,Medio
+Netherlands,NLD,2016,43000,País,Alto
+Netherlands,NLD,2017,26000,País,Alto
+Netherlands,NLD,2018,27600,País,Alto
+Netherlands,NLD,2019,66500,País,Alto
+Netherlands,NLD,2020,87000,País,Alto
+Netherlands,NLD,2021,94000,País,Alto
+Netherlands,NLD,2022,107000,País,Alto
+Netherlands,NLD,2023,156000,País,Alto
+Netherlands,NLD,2024,182000,País,Alto
+Netherlands,NLD,2025,228000,País,Alto
+New Zealand,NZL,2010,10,País,Bajo
+New Zealand,NZL,2011,15,País,Bajo
+New Zealand,NZL,2012,27,País,Bajo
+New Zealand,NZL,2013,36,País,Bajo
+New Zealand,NZL,2014,320,País,Bajo
+New Zealand,NZL,2015,500,País,Bajo
+New Zealand,NZL,2016,1540,País,Medio
+New Zealand,NZL,2017,3440,País,Medio
+New Zealand,NZL,2018,5600,País,Medio
+New Zealand,NZL,2019,6900,País,Medio
+New Zealand,NZL,2020,5400,País,Medio
+New Zealand,NZL,2021,10300,País,Medio
+New Zealand,NZL,2022,28200,País,Alto
+New Zealand,NZL,2023,30000,País,Alto
+New Zealand,NZL,2024,9700,País,Medio
+New Zealand,NZL,2025,11600,País,Medio
+Norway,NOR,2010,360,País,Bajo
+Norway,NOR,2011,2000,País,Medio
+Norway,NOR,2012,4220,País,Medio
+Norway,NOR,2013,8240,País,Medio
+Norway,NOR,2014,21700,País,Alto
+Norway,NOR,2015,33900,País,Alto
+Norway,NOR,2016,45000,País,Alto
+Norway,NOR,2017,62000,País,Alto
+Norway,NOR,2018,73000,País,Alto
+Norway,NOR,2019,79000,País,Alto
+Norway,NOR,2020,106000,País,Alto
+Norway,NOR,2021,148000,País,Alto
+Norway,NOR,2022,156000,País,Alto
+Norway,NOR,2023,110000,País,Alto
+Norway,NOR,2024,113500,País,Alto
+Norway,NOR,2025,172800,País,Alto
+Philippines,PHL,2017,16,País,Bajo
+Philippines,PHL,2018,4,País,Bajo
+Philippines,PHL,2019,353,País,Bajo
+Philippines,PHL,2020,276,País,Bajo
+Philippines,PHL,2021,281,País,Bajo
+Philippines,PHL,2022,312,País,Bajo
+Philippines,PHL,2023,349,País,Bajo
+Philippines,PHL,2024,3200,País,Medio
+Philippines,PHL,2025,30000,País,Alto
+Poland,POL,2010,16,País,Bajo
+Poland,POL,2011,43,País,Bajo
+Poland,POL,2012,48,País,Bajo
+Poland,POL,2013,37,País,Bajo
+Poland,POL,2014,201,País,Bajo
+Poland,POL,2015,220,País,Bajo
+Poland,POL,2016,510,País,Bajo
+Poland,POL,2017,1080,País,Bajo
+Poland,POL,2018,1380,País,Medio
+Poland,POL,2019,2700,País,Medio
+Poland,POL,2020,8200,País,Medio
+Poland,POL,2021,16300,País,Medio
+Poland,POL,2022,25000,País,Alto
+Poland,POL,2023,30000,País,Alto
+Poland,POL,2024,37000,País,Alto
+Poland,POL,2025,84000,País,Alto
+Portugal,PRT,2010,13,País,Bajo
+Portugal,PRT,2011,172,País,Bajo
+Portugal,PRT,2012,84,País,Bajo
+Portugal,PRT,2013,185,País,Bajo
+Portugal,PRT,2014,288,País,Bajo
+Portugal,PRT,2015,1100,País,Bajo
+Portugal,PRT,2016,1800,País,Medio
+Portugal,PRT,2017,4400,País,Medio
+Portugal,PRT,2018,8200,País,Medio
+Portugal,PRT,2019,12600,País,Medio
+Portugal,PRT,2020,19800,País,Alto
+Portugal,PRT,2021,29000,País,Alto
+Portugal,PRT,2022,34000,País,Alto
+Portugal,PRT,2023,63000,País,Alto
+Portugal,PRT,2024,70000,País,Alto
+Portugal,PRT,2025,86000,País,Alto
+Rest of World,DESC,2010,520,Agregado,Bajo
+Rest of World,DESC,2011,266,Agregado,Bajo
+Rest of World,DESC,2012,1064,Agregado,Bajo
+Rest of World,DESC,2014,1924,Agregado,Medio
+Rest of World,DESC,2016,4466,Agregado,Medio
+Rest of World,DESC,2017,11412,Agregado,Medio
+Rest of World,DESC,2018,19095,Agregado,Alto
+Rest of World,DESC,2020,5650,Agregado,Medio
+Rest of World,DESC,2021,99044,Agregado,Alto
+Rest of World,DESC,2023,32818,Agregado,Alto
+Rest of World,DESC,2024,301063,Agregado,Alto
+Rest of World,DESC,2025,378879,Agregado,Alto
+Romania,ROU,2015,24,País,Bajo
+Romania,ROU,2016,74,País,Bajo
+Romania,ROU,2017,190,País,Bajo
+Romania,ROU,2018,600,País,Bajo
+Romania,ROU,2019,1500,País,Medio
+Romania,ROU,2020,3800,País,Medio
+Romania,ROU,2021,6300,País,Medio
+Romania,ROU,2022,12000,País,Medio
+Romania,ROU,2023,15000,País,Medio
+Romania,ROU,2024,9800,País,Medio
+Romania,ROU,2025,8800,País,Medio
+Russia,RUS,2011,41,País,Bajo
+Russia,RUS,2012,49,País,Bajo
+Russia,RUS,2015,165,País,Bajo
+Russia,RUS,2016,372,País,Bajo
+Russia,RUS,2017,142,País,Bajo
+Russia,RUS,2018,1140,País,Bajo
+Russia,RUS,2019,1250,País,Medio
+Russia,RUS,2020,1490,País,Medio
+Russia,RUS,2021,2040,País,Medio
+Russia,RUS,2022,797,País,Bajo
+Russia,RUS,2023,5260,País,Medio
+Russia,RUS,2024,40000,País,Alto
+Russia,RUS,2025,31000,País,Alto
+Seychelles,SYC,2015,3,País,Bajo
+Seychelles,SYC,2016,12,País,Bajo
+Seychelles,SYC,2017,30,País,Bajo
+Seychelles,SYC,2018,32,País,Bajo
+Seychelles,SYC,2019,37,País,Bajo
+Seychelles,SYC,2020,26,País,Bajo
+Seychelles,SYC,2021,61,País,Bajo
+Seychelles,SYC,2022,37,País,Bajo
+Seychelles,SYC,2023,100,País,Bajo
+Singapore,SGP,2016,2,País,Bajo
+Singapore,SGP,2017,680,País,Bajo
+Singapore,SGP,2018,950,País,Bajo
+Singapore,SGP,2019,1490,País,Medio
+Singapore,SGP,2020,1100,País,Bajo
+Singapore,SGP,2021,3260,País,Medio
+Singapore,SGP,2022,3680,País,Medio
+Singapore,SGP,2023,5090,País,Medio
+Singapore,SGP,2024,12590,País,Medio
+Singapore,SGP,2025,20580,País,Alto
+Slovakia,SVK,2015,52,País,Bajo
+Slovakia,SVK,2016,59,País,Bajo
+Slovakia,SVK,2017,210,País,Bajo
+Slovakia,SVK,2018,290,País,Bajo
+Slovakia,SVK,2019,360,País,Bajo
+Slovakia,SVK,2020,1780,País,Medio
+Slovakia,SVK,2021,2300,País,Medio
+Slovakia,SVK,2022,3000,País,Medio
+Slovakia,SVK,2023,5300,País,Medio
+Slovakia,SVK,2024,4400,País,Medio
+Slovakia,SVK,2025,8500,País,Medio
+Slovenia,SVN,2016,186,País,Bajo
+Slovenia,SVN,2017,460,País,Bajo
+Slovenia,SVN,2018,660,País,Bajo
+Slovenia,SVN,2019,218,País,Bajo
+Slovenia,SVN,2020,1639,País,Medio
+Slovenia,SVN,2021,2010,País,Medio
+Slovenia,SVN,2022,2890,País,Medio
+Slovenia,SVN,2023,5500,País,Medio
+Slovenia,SVN,2024,4300,País,Medio
+Slovenia,SVN,2025,8300,País,Medio
+South Africa,ZAF,2013,34,País,Bajo
+South Africa,ZAF,2014,15,País,Bajo
+South Africa,ZAF,2015,240,País,Bajo
+South Africa,ZAF,2016,380,País,Bajo
+South Africa,ZAF,2017,198,País,Bajo
+South Africa,ZAF,2018,148,País,Bajo
+South Africa,ZAF,2019,232,País,Bajo
+South Africa,ZAF,2020,242,País,Bajo
+South Africa,ZAF,2021,271,País,Bajo
+South Africa,ZAF,2022,620,País,Bajo
+South Africa,ZAF,2023,1080,País,Bajo
+South Africa,ZAF,2024,1940,País,Medio
+South Africa,ZAF,2025,3800,País,Medio
+South Korea,KOR,2010,61,País,Bajo
+South Korea,KOR,2011,270,País,Bajo
+South Korea,KOR,2012,510,País,Bajo
+South Korea,KOR,2013,600,País,Bajo
+South Korea,KOR,2014,1300,País,Medio
+South Korea,KOR,2015,3350,País,Medio
+South Korea,KOR,2016,5030,País,Medio
+South Korea,KOR,2017,14670,País,Medio
+South Korea,KOR,2018,59400,País,Alto
+South Korea,KOR,2019,35700,País,Alto
+South Korea,KOR,2020,39700,País,Alto
+South Korea,KOR,2021,91000,País,Alto
+South Korea,KOR,2022,131000,País,Alto
+South Korea,KOR,2023,132000,País,Alto
+South Korea,KOR,2024,127900,País,Alto
+South Korea,KOR,2025,217000,País,Alto
+Spain,ESP,2010,76,País,Bajo
+Spain,ESP,2011,398,País,Bajo
+Spain,ESP,2012,540,País,Bajo
+Spain,ESP,2013,882,País,Bajo
+Spain,ESP,2014,1730,País,Medio
+Spain,ESP,2015,2080,País,Medio
+Spain,ESP,2016,3500,País,Medio
+Spain,ESP,2017,7400,País,Medio
+Spain,ESP,2018,11600,País,Medio
+Spain,ESP,2019,17400,País,Medio
+Spain,ESP,2020,42000,País,Alto
+Spain,ESP,2021,67000,País,Alto
+Spain,ESP,2022,82000,País,Alto
+Spain,ESP,2023,122000,País,Alto
+Spain,ESP,2024,128000,País,Alto
+Spain,ESP,2025,230000,País,Alto
+Sweden,SWE,2010,4,País,Bajo
+Sweden,SWE,2011,180,País,Bajo
+Sweden,SWE,2012,930,País,Bajo
+Sweden,SWE,2013,1530,País,Medio
+Sweden,SWE,2014,4600,País,Medio
+Sweden,SWE,2015,8700,País,Medio
+Sweden,SWE,2016,12900,País,Medio
+Sweden,SWE,2017,20400,País,Alto
+Sweden,SWE,2018,29100,País,Alto
+Sweden,SWE,2019,41000,País,Alto
+Sweden,SWE,2020,94000,País,Alto
+Sweden,SWE,2021,135000,País,Alto
+Sweden,SWE,2022,163000,País,Alto
+Sweden,SWE,2023,171000,País,Alto
+Sweden,SWE,2024,157000,País,Alto
+Sweden,SWE,2025,173000,País,Alto
+Switzerland,CHE,2011,441,País,Bajo
+Switzerland,CHE,2012,740,País,Bajo
+Switzerland,CHE,2013,1370,País,Medio
+Switzerland,CHE,2014,2900,País,Medio
+Switzerland,CHE,2015,5700,País,Medio
+Switzerland,CHE,2016,6100,País,Medio
+Switzerland,CHE,2017,8400,País,Medio
+Switzerland,CHE,2018,9500,País,Medio
+Switzerland,CHE,2019,17300,País,Medio
+Switzerland,CHE,2020,34000,País,Alto
+Switzerland,CHE,2021,54000,País,Alto
+Switzerland,CHE,2022,59000,País,Alto
+Switzerland,CHE,2023,76000,País,Alto
+Switzerland,CHE,2024,67000,País,Alto
+Switzerland,CHE,2025,79000,País,Alto
+Thailand,THA,2010,1,País,Bajo
+Thailand,THA,2011,9,País,Bajo
+Thailand,THA,2012,7,País,Bajo
+Thailand,THA,2013,13,País,Bajo
+Thailand,THA,2014,69,País,Bajo
+Thailand,THA,2015,37,País,Bajo
+Thailand,THA,2016,39,País,Bajo
+Thailand,THA,2017,167,País,Bajo
+Thailand,THA,2018,8610,País,Medio
+Thailand,THA,2019,10300,País,Medio
+Thailand,THA,2020,9100,País,Medio
+Thailand,THA,2021,9000,País,Medio
+Thailand,THA,2022,20900,País,Alto
+Thailand,THA,2023,89000,País,Alto
+Thailand,THA,2024,80400,País,Alto
+Thailand,THA,2025,138000,País,Alto
+Turkey,TUR,2012,92,País,Bajo
+Turkey,TUR,2013,1,País,Bajo
+Turkey,TUR,2014,68,País,Bajo
+Turkey,TUR,2015,230,País,Bajo
+Turkey,TUR,2016,127,País,Bajo
+Turkey,TUR,2017,111,País,Bajo
+Turkey,TUR,2018,235,País,Bajo
+Turkey,TUR,2019,324,País,Bajo
+Turkey,TUR,2020,1290,País,Medio
+Turkey,TUR,2021,3920,País,Medio
+Turkey,TUR,2022,7540,País,Medio
+Turkey,TUR,2023,67500,País,Alto
+Turkey,TUR,2024,104900,País,Alto
+Turkey,TUR,2025,237000,País,Alto
+United Arab Emirates,ARE,2012,200,País,Bajo
+United Arab Emirates,ARE,2013,139,País,Bajo
+United Arab Emirates,ARE,2014,49,País,Bajo
+United Arab Emirates,ARE,2015,85,País,Bajo
+United Arab Emirates,ARE,2016,58,País,Bajo
+United Arab Emirates,ARE,2017,479,País,Bajo
+United Arab Emirates,ARE,2018,270,País,Bajo
+United Arab Emirates,ARE,2019,231,País,Bajo
+United Arab Emirates,ARE,2020,691,País,Bajo
+United Arab Emirates,ARE,2021,5100,País,Medio
+United Arab Emirates,ARE,2022,13700,País,Medio
+United Arab Emirates,ARE,2023,16900,País,Medio
+United Arab Emirates,ARE,2024,23900,País,Alto
+United Arab Emirates,ARE,2025,37000,País,Alto
+United Kingdom,GBR,2010,261,País,Bajo
+United Kingdom,GBR,2011,1207,País,Medio
+United Kingdom,GBR,2012,2570,País,Medio
+United Kingdom,GBR,2013,3700,País,Medio
+United Kingdom,GBR,2014,14500,País,Medio
+United Kingdom,GBR,2015,29000,País,Alto
+United Kingdom,GBR,2016,39000,País,Alto
+United Kingdom,GBR,2017,49000,País,Alto
+United Kingdom,GBR,2018,62000,País,Alto
+United Kingdom,GBR,2019,75000,País,Alto
+United Kingdom,GBR,2020,178000,País,Alto
+United Kingdom,GBR,2021,310000,País,Alto
+United Kingdom,GBR,2022,370000,País,Alto
+United Kingdom,GBR,2023,450000,País,Alto
+United Kingdom,GBR,2024,550000,País,Alto
+United Kingdom,GBR,2025,700000,País,Alto
+United States,USA,2010,1200,País,Medio
+United States,USA,2011,17800,País,Alto
+United States,USA,2012,54000,País,Alto
+United States,USA,2013,97000,País,Alto
+United States,USA,2014,118000,País,Alto
+United States,USA,2015,114000,País,Alto
+United States,USA,2016,160000,País,Alto
+United States,USA,2017,194000,País,Alto
+United States,USA,2018,360000,País,Alto
+United States,USA,2019,325000,País,Alto
+United States,USA,2020,294000,País,Alto
+United States,USA,2021,630000,País,Alto
+United States,USA,2022,990000,País,Alto
+United States,USA,2023,1390000,País,Alto
+United States,USA,2024,1520000,País,Alto
+United States,USA,2025,1530000,País,Alto
+Uzbekistan,UZB,2023,9960,País,Medio
+Uzbekistan,UZB,2024,22600,País,Alto
+Uzbekistan,UZB,2025,30000,País,Alto
+Vietnam,VNM,2018,3,País,Bajo
+Vietnam,VNM,2021,85,País,Bajo
+Vietnam,VNM,2022,7319,País,Medio
+Vietnam,VNM,2023,32064,País,Alto
+Vietnam,VNM,2024,69084,País,Alto
+Vietnam,VNM,2025,180077,País,Alto
+World,OWID_WRL,2010,7450,Agregado,Medio
+World,OWID_WRL,2011,49000,Agregado,Alto
+World,OWID_WRL,2012,119000,Agregado,Alto
+World,OWID_WRL,2013,201000,Agregado,Alto
+World,OWID_WRL,2014,330000,Agregado,Alto
+World,OWID_WRL,2015,520000,Agregado,Alto
+World,OWID_WRL,2016,780000,Agregado,Alto
+World,OWID_WRL,2017,1200000,Agregado,Alto
+World,OWID_WRL,2018,2050000,Agregado,Alto
+World,OWID_WRL,2019,2080000,Agregado,Alto
+World,OWID_WRL,2020,2980000,Agregado,Alto
+World,OWID_WRL,2021,6600000,Agregado,Alto
+World,OWID_WRL,2022,10200000,Agregado,Alto
+World,OWID_WRL,2023,13700000,Agregado,Alto
+World,OWID_WRL,2024,17500000,Agregado,Alto
+World,OWID_WRL,2025,21200000,Agregado,Alto
